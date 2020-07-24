@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Right handed people live, on average, nine years longer than left-handed people\n\nYou cant kill yourself by holding your breath\n\nA cockroach can live several weeks with its head cut off!</string>
+    <string name="second">What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.\n\n
+
+"Almost" is the longest word in the English language with all the letters in alphabetical order.\n\n
+
+"Rhythm" is the longest English word without a vowel.</string>
+</resources>
