@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
         al.add(new Frag1());
         al.add(new Frag2());
 
-
+        adapter = new MyFragmentPagerAdapter(fm, al);
+        vPager.setAdapter(adapter);
     }
 
     @Override
